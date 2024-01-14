@@ -1,0 +1,123 @@
+body {
+
+    background-color:lightskyblue;
+
+
+}
+#background-section {
+    background-image: url(https://st.depositphotos.com/1144352/3656/i/450/depositphotos_36567413-stock-photo-pizza.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+   
+}
+.container {
+    height: 450px;
+    width: 650px;
+}
+.tabel-container {
+    border: 1px solid snow;
+    width: 600px;
+}
+.border1 {
+    height: 150px;
+    width: 180px;
+    border: 1px solid snow;
+}
+.border2 {
+    height: 150px;
+    width: 180px;
+     border: 1px solid snow;  
+}
+.border3 {
+    height: 120px;
+    width: 180px;
+    border: 1px solid snow;
+    margin-top: 60px;
+}
+.img-smiley {
+    height: 55px;
+    background-color: gold;
+    border-radius: 50% ;
+    display: block;    
+}
+.img-smiley:hover {
+    transform: rotate(60deg)
+    
+}
+.submit {
+    display: block;
+}
+.img-pizza:hover {
+    transform: translateX(100px);
+    transition-duration: 1.5s;
+}
+.img-juice-cocktail {
+     height: 400px;
+     width:550px;
+     display: flex;
+    margin-left: 600px;
+    position: absolute;
+    
+}
+.img-juice-cocktail:hover {
+    transform: rotate(360deg);
+    transition-duration: 3s;
+}
+#pizza-lovers {
+    font-size: 35px;
+    display: flex;
+    margin-top: 0px;
+    margin-left: 300px;
+  
+    position: absolute;
+    display: block;
+
+}
+.lorem1 {
+    display: block;
+    margin-left: 300px;
+}
+.lorem2 {
+    display: block;
+    margin-left: 300px;
+}
+.lorem3 {
+    display: block;
+    margin-left: 300px;
+}
+.tabel-container {
+    border: 1px solid snow;
+}
+#vb {
+    font-size: 35px;
+}
+.catered-event {
+    height: 200px;
+    width: 350px;
+}
+.juice-bar {
+    height: 200px;
+    width: 350px;
+}
+.fresh-juice {
+    height: 200px;
+    width: 350px;
+}
+.first-name {
+    display: inline;
+}
+.last-name {
+    display: inline;
+}
+.event-type {
+    display: inline;
+}
+.email {
+    display: inline;
+}
+.smoothie {
+    position: absolute;
+    margin-left: 1220px;
+    margin-bottom: 500px;
+}
